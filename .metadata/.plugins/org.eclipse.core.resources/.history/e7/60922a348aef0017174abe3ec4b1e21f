@@ -1,0 +1,7 @@
+package com.student;
+
+
+	public class Graduatestudent extends Student{
+		
+	}
+
